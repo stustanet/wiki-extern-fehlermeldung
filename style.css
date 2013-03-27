@@ -1,0 +1,39 @@
+body {margin-top:240px; repeat-x #ffffff; font-family:Arial, Helvetica, sans-serif;}
+
+hr {border: 0, color: #000000; background-color:#000000 height: 1px;}
+
+#container {width:770px; margin:0 auto;}
+
+#main {font-size:13px; line-height:17px; color:#000000; float:left; width:100%;}
+#main br {line-height:10px;}
+#main a {color:#DB5F29; text-decoration: none;}
+#main a:hover {color:#873916;}
+#text {margin:30px 255px 30px 10px;}
+#text h1 {font-size:32px; font-weight:normal; margin:30px 0 8px 0; color:#000000; line-height:1em}
+#text h2 {font-size:24px; font-weight:normal; margin:20px 0 15px 0; color:#000000; line-height:1em}
+#text h3 {font-size:18px; font-weight:normal; margin:20px 0 15px 0; color:#000000; line-height:1em}
+#text ol, #text ul {padding:0; margin:10px 0;}
+#text li {margin-left:40px;}
+#sidebar {width:180px; float:right; margin:6px 15px 30px 0px; display:inline;}
+#sidebar h3 {font-size:20px; font-weight:normal; margin:24px 0 8px 0; color:#000000;}
+a div {
+    display: none;
+}
+
+a:hover div {
+    display: block;
+}
+
+
+#footer_menu {height:41px; background:url(images/footer_bg.png) no-repeat; clear:both; text-align:center; color:#000000; font-size:12px; padding-top:16px;}
+#footer_menu a {color:#83B12D; text-decoration:none;}
+#footer_menu a:hover {color:#476119;}
+
+#footer {color:#000000; text-align:center; font-size:10px; margin:2px 0 15px 0;}
+#footer a {color:#B55123;}
+#footer a:hover {color:#B55123;}
+
+body {
+  background-image: url("wiki-faded.png");
+  background-repeat: no-repeat;
+}
