@@ -24,16 +24,11 @@ a:hover div {
     display: block;
 }
 
-
-#footer_menu {height:41px; background:url(images/footer_bg.png) no-repeat; clear:both; text-align:center; color:#000000; font-size:12px; padding-top:16px;}
-#footer_menu a {color:#83B12D; text-decoration:none;}
-#footer_menu a:hover {color:#476119;}
-
 #footer {color:#000000; text-align:center; font-size:10px; margin:2px 0 15px 0;}
 #footer a {color:#B55123;}
 #footer a:hover {color:#B55123;}
 
 body {
-  background-image: url("wiki-faded.png");
+  background-image: url("/fehlerseite.png");
   background-repeat: no-repeat;
 }
